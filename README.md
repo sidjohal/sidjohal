@@ -12,9 +12,9 @@
 -->
 <img align="right" alt="me coding" width="400" src="https://media.tenor.com/GfSX-u7VGM4AAAAM/coding.gif">
 
-🔭 I’m currently working on **building my portfolio**
-🌱 I’m currently learning **Web development**
-🤝 I’m looking for **opportunities in data science/ analytics**
+<p>🔭 I’m currently working on building my portfolio</li>
+<p>🌱 I’m currently learning Web development</p>
+<p>🤝 I’m looking for opportunities in data science/ analytics</p>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
