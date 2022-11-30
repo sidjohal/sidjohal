@@ -1,7 +1,7 @@
 
 
 <h1 align="center">Hi 👋, I'm Siddhant</h1>
-<h5 align="center">builing my online portfolio</h5>
+<h5 align="center">here for data science and development</h5>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sidjohal&label=Profile%20views&color=0e75b6&style=flat" alt="sidjohal" /> </p>
 <!--
